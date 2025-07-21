@@ -22,3 +22,8 @@
 // - Crea una funcion que valide entrada decimal usando cin.fail()
 // - Modifica el ejemplo para que el programa repita la entrada hasta que el usuario proporcione un dato correcto
 // - Agrega una excepcion personalizada para detectar cuando el usuario ingrese el numero cero, por ejeplo throw logica_error("Cero no permitido")
+
+// ejercicios de buenas practicas ----------------------------
+// - toma un programa previo de este curso y refactoriza para aplicar nombres descriptivos, funciones modulares y estilo uniforme.
+// - Agrega comentarios claros cuando haya logica compleja
+// Usa const cuando una variable no deba modificarse para mostrar intencion clara en el codigo
