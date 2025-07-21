@@ -16,3 +16,9 @@
 // - Crea un programa que solicite dos numeros e intente dividir uno entre otro, atrapando  el error si el divisor es cero
 // - Accede a un indice invalido de un vector y captura la excepcion out-of-range
 // - Usa una clave propia para lanzar una excepcion personalizada y capurarla
+
+
+// manejo de errores -------------------------------------
+// - Crea una funcion que valide entrada decimal usando cin.fail()
+// - Modifica el ejemplo para que el programa repita la entrada hasta que el usuario proporcione un dato correcto
+// - Agrega una excepcion personalizada para detectar cuando el usuario ingrese el numero cero, por ejeplo throw logica_error("Cero no permitido")
