@@ -17,3 +17,8 @@
 // Ejercicios de herencia
 // - Crear clase dispositivo con metodo encender()
 // - crear clases computadora y tablet que hereden de dispositivo y agrega comportamientos propios
+
+// Ejercicios de polimorfismo
+// - Crear clase Figura con metodo area() y sobrecargarlo en clases Circulo y Rectangulo
+
+// - crear clase Instrumento y derivar como guitarra y tambor con tocar() sobreescrito
