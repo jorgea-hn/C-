@@ -22,3 +22,8 @@
 // - Crear clase Figura con metodo area() y sobrecargarlo en clases Circulo y Rectangulo
 
 // - crear clase Instrumento y derivar como guitarra y tambor con tocar() sobreescrito
+
+
+// ejercicios de abstraccion
+// - añadir las clases triangulo y cuadrado que hereden de Figura
+// - implementar calcularArea() y dibujar() en cada una
