@@ -7,3 +7,8 @@
 // Constructores y destructores
 // - Crear una clase libro con constructor que reciba titulo y autor
 // - Mostrar un mensaje en el destructor indicando que el libro fue eliminado
+
+
+// Ejercicios de encapsulacion
+// - Crea clase empleado con atributo sueldo privado
+// - implementar getSueldo() y setSueldo() con validacion
