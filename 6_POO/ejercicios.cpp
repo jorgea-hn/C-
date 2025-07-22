@@ -27,3 +27,7 @@
 // ejercicios de abstraccion
 // - añadir las clases triangulo y cuadrado que hereden de Figura
 // - implementar calcularArea() y dibujar() en cada una
+
+// ejercicios de todo lo anterior
+// - Añadir clase freelancer que herede de empleado y sobreescribir mostrarRol()
+// - añadir comportamiento personalizado al metro trabajar() para freelancer
