@@ -3,3 +3,7 @@
 // Conceptos basicos de POO
 // - Crea una clase Auto con atributos marca, modelo, anio y un metodo mostrarInfo()
 // - instanciar dos objetos de tipo auto y mostrar su informacion
+
+// Constructores y destructores
+// - Crear una clase libro con constructor que reciba titulo y autor
+// - Mostrar un mensaje en el destructor indicando que el libro fue eliminado
