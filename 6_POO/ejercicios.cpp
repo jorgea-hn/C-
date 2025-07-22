@@ -12,3 +12,8 @@
 // Ejercicios de encapsulacion
 // - Crea clase empleado con atributo sueldo privado
 // - implementar getSueldo() y setSueldo() con validacion
+
+
+// Ejercicios de herencia
+// - Crear clase dispositivo con metodo encender()
+// - crear clases computadora y tablet que hereden de dispositivo y agrega comportamientos propios
